@@ -1,2 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Q7lnW6We)
-# GPU_Histogram
+# GPU Histogram Computation Optimization on NVIDIA V100 GPU
+**This assignment is part of a leaderboard challenge.<br>The main implementation is in [src/main.cu](src/main.cu).<br>I have combined several GPU optimization techniques with V100-specific optimizations to achieve this performance<br>Details of all optimization techniques,their purposes, kernel variants, and benchmarking results are documented in [report.pdf](report.pdf).**
